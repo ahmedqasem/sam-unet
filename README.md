@@ -5,6 +5,11 @@ U-Net style decoder that is adapted for medical image segmentation. The project
 contains utilities for training on the SA-Med2D-16M collection as well as
 zero-shot evaluation on external datasets.
 
+## Sources:
+- code: https://huggingface.co/papers/2408.09886
+- dataset: https://huggingface.co/datasets/OpenGVLab/SA-Med2D-20M
+
+
 ## Repository structure
 
 ```
